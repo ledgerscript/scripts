@@ -57,6 +57,13 @@ version.
 Please remember, this repository exclusively contains samples. Therefore,
 there's no need to clone this repository.
 
+| Folder       | Description                                                                     |
+|--------------|---------------------------------------------------------------------------------|
+| [QBD](QBD)   | Contains samples on establishing communication with QuickBooks Desktop.         |
+| [UI](UI)     | Contains samples on how to create interactive dialogs and forms. |
+| [Webserver](Webserver) | Contains samples on how to run a webserver capable of communicating with QuickBooks Desktop using JSON. |
+| [FS](FS)     | Contains samples on how to read and write files.                                |
+
 ## Code
 
 There are a few examples of how you can communicate with QuickBooks Desktop
