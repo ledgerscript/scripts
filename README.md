@@ -95,11 +95,10 @@ async function countCustomers() {
 }
 ```
 
-
-#### Add new customer
+#### Add new invoice
 
 ```js
-async function addNewCustomer() {
+async function addNewInvoice() {
   const invoice = new qbd.Invoice({
     CustomerRef: { ListID: "800000B8-1197707458" },
     InvoiceLineRet: [
